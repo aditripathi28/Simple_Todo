@@ -1,30 +1,45 @@
-📝 Simple React Todo App
+<h1 align="center">📝 Simple React Todo App</h1>
 
-A clean and minimal Todo List application built with React to practice core React concepts and modern frontend development.
+<p align="center">
+A clean and minimal Todo application built with React and Vite.
+</p>
 
-The app allows users to manage daily tasks with a simple and intuitive interface while storing tasks in localStorage so they remain even after refreshing the page.
+<p align="center">
+Add tasks • Mark them complete • Delete tasks • Persistent storage with localStorage
+</p>
 
-## ✨ Features
+---
 
-- ➕ Add new tasks  
-- ✅ Mark tasks as completed  
-- 🗑 Delete individual tasks  
-- 🧹 Clear all tasks instantly  
-- 💾 Persistent storage using localStorage  
-- 🎨 Clean UI with gradient background
+## 🌐 Live Demo
+
+[Open the App](https://simple-todo-ten-rho.vercel.app)
+
+---
 
 ## 📷 Preview
 
-📷 Preview
-
 ![Todo App Screenshot](assets/todo-preview.png)
 
+---
+
+## ✨ Features
+
+* ➕ Add new tasks
+* ✅ Mark tasks as completed
+* 🗑 Delete individual tasks
+* 🧹 Clear all tasks instantly
+* 💾 Persistent storage using localStorage
+* 🎨 Clean UI with gradient background
+
+---
 
 ## 🛠 Tech Stack
 
-| Technology | Purpose |
-|------------|---------|
-| React | UI components and state management |
-| JavaScript | Application logic |
-| CSS | Styling and layout |
-| Vite | Fast development environment |
+| Technology | Purpose                            |
+| ---------- | ---------------------------------- |
+| React      | UI components and state management |
+| JavaScript | Application logic                  |
+| CSS        | Styling and layout                 |
+| Vite       | Fast development environment       |
+
+---
